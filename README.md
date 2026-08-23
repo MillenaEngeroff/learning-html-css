@@ -40,23 +40,7 @@ The purpose of this repository is to:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-## 📂 Repository Structure
-
-```
-html-css-fundamentals/
-├── basics/
-│   ├── document-structure/
-│   └── text-styling/
-├── layout/
-│   ├── flexbox/
-│   └── grid/
-├── projects/
-│   └── cinema-website/
-└── README.md
-```
+visual studio code
 
 ---
 
